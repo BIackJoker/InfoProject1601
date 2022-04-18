@@ -1,0 +1,244 @@
+
+header{
+  background-color: rgb(0, 0, 0);
+}
+/* h1{
+  color: white;
+  background-color: black;
+} */
+body{
+} 
+h1{
+  margin:0;
+  padding:0;
+  font-family: Lobster, sans-serif;
+  font-style: oblique;
+  font-size: 5p;
+  text-align: center;
+ color: rgb(212, 175, 55);
+}
+div{
+  text-align: center;
+}
+
+section{
+  padding: 30px;
+  margin: auto;
+}
+aside{
+  text-align: center;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+img{
+  float:left;
+  height: 300px;
+  width: 400px;
+}
+body{
+  height: 100vh;
+  background-image:url('https://wallpaperaccess.com/full/45636.jpg');
+  background-size: cover;
+}
+
+#back{
+   filter: brightness(0);
+}
+
+#h2{
+ color: rgb(212, 175, 55);
+  text-align:center;
+  font-style: oblique;
+  font-size: 35px;
+}
+#correct{
+  font-size: 35px;
+}
+#input{
+  float:center;
+  color : white;
+  font-size:30px;
+  background-color: red;
+}
+#cluebtn{
+  float:left;
+  color : white;
+  font-size:30px;
+  background-color: blue;
+}
+#skipnext{
+  float:right;
+  color : white;
+  font-size:30px;
+  background-color: green;
+  
+  
+}
+
+#clue{
+  color: rgb(212, 175, 55);
+  margin:28px;
+  font-family: Lobster;
+  font-style:oblique;
+  font-size:30px;
+  
+/*   margin: 180px; */
+  background-color: transparent;
+}
+
+#skipnext,#cluebtn,#input{
+display:inline-block;
+width: 100px;
+height: 40px;
+}
+#normal{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(168, 167, 122);
+  font-size:30px;
+}
+
+#fire{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(238, 129, 48);
+  font-size:30px;
+}
+
+#water{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(99, 144, 240);
+  font-size:30px
+}
+
+#grass{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(122, 199, 76);
+  font-size:30px;
+}
+
+#electric{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(247, 208, 44);
+  font-size:30px;
+}
+
+#ice{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(150, 217, 214);
+  font-size:30px;
+}
+
+#fighting{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(194, 46, 40);
+  font-size:30px;
+}
+#poison{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(163, 62, 161);
+  font-size:30px;
+}
+#ground{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(226, 191, 101);
+  font-size:30px;
+}
+
+#flying{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(169, 143, 243);
+  font-size:30px;
+}
+
+#psychic{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(249, 85, 135);
+  font-size:30px;
+}
+
+#bug{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(166, 185, 26);
+  font-size:30px;
+}
+
+#rock{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(182, 161, 54);
+  font-size:30px;
+}
+
+#ghost{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(115, 87, 151);
+  font-size:30px;
+}
+
+#dark{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(112, 87, 70);
+  font-size:30px;
+}
+
+#dragon{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(111, 53, 252);
+  font-size:30px;
+}
+
+#steel{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(183, 183, 206);
+  font-size:30px;
+}
+
+#fairy{
+  font-family: Lobster;
+  font-style:oblique;
+  background-color:rgb(214, 133, 173);
+  font-size:30px;
+}
+
+#score{
+  margin:30 px;
+  float:right;
+  color:white;
+  font-size:30px;
+  font-family: Comic Sans MS;
+}
+#correct{
+  color:white;
+  font-size:30px;
+  font-family: Comic Sans MS;
+}
+
+#streak{
+  margin:20px;
+  padding:20px;
+}
+#lossStreak{
+  margin:20px;
+  padding:20px;
+}
+
+/*  https://swall.teahub.io/photos/small/26-265656_pokeball-background.jpg */
+/* https://wallpaperaccess.com/full/45634.png */
+/* https://wallpaperaccess.com/full/266869.png */
+
+
